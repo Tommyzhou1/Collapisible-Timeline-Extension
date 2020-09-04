@@ -1,2 +1,2 @@
-<font size = 8>**Collapsible timeline extension in Javascript (Front-end)**</font>
+<p style="font-size:30px">**Collapsible timeline extension in Javascript (Front-end)**</p>
 
