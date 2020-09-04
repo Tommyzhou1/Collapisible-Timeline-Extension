@@ -1,1 +1,1 @@
-Collapsible timeline extension in Javascript (Front-end) 
+**Collapsible timeline extension in Javascript (Front-end)**
