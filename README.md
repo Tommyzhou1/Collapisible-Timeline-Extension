@@ -1,2 +1,2 @@
-***Collapsible timeline extension in Javascript***
+**Collapsible timeline extension in Javascript**
 
