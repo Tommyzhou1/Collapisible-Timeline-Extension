@@ -1,2 +1,1 @@
-"# Collapisible-Timeline-Extension" 
-"# Collapisible-Timeline-Extension" 
+Collapsible timeline extension in Javascript (Front-end) 
